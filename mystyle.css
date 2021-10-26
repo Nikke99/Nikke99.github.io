@@ -4,14 +4,14 @@ body {
 
 h1   {font-size: 20px; color: white}
 a   {color: white}
-p   {font-size: 12px;color: white}
+p   {font-size: 12px;color: green}
 
 .myDiv {
-    border: 3px outset white;
+    border: 2px outset white;
     background-color: black;
     text-align: center;
-    height: 60px;
-    width: 25%;
+    height: 100px;
+    width: 100px;
 }
 
 
