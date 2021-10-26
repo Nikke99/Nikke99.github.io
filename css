@@ -1,12 +1,8 @@
-.myDiv {
-    border: 3px outset black;
+body {
     background-color: lightpink;
-    text-align: center;
-    height: 60px;
-    width: 25%;
 }
-body   {background-color: lightpink}
-h1   {font-size: 20px; color: black}
-a    {color: black}
-p   {font-size: 12px;color: black}
 
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
