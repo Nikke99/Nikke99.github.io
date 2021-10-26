@@ -1,14 +1,14 @@
 body {
-    background-color: lightpink;
+    background-color: black;
 }
 
-h1   {font-size: 20px; color: black}
-a   {color: black}
-p   {font-size: 12px;color: black}
+h1   {font-size: 20px; color: white}
+a   {color: white}
+p   {font-size: 12px;color: white}
 
 .myDiv {
-    border: 3px outset black;
-    background-color: lightpink;
+    border: 3px outset white;
+    background-color: black;
     text-align: center;
     height: 60px;
     width: 25%;
@@ -16,5 +16,5 @@ p   {font-size: 12px;color: black}
 
 
 
-.abc {list-style-type: lower-alpha; color:black; font-size: 15px;}
-.square {list-style-type: square; color:black; font-size: 15px;}
+.abc {list-style-type: lower-alpha; color:white; font-size: 15px;}
+.square {list-style-type: square; color:white; font-size: 15px;}
